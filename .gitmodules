@@ -82,3 +82,6 @@
 [submodule "vim-colors-solarized"]
 	path = vim-colors-solarized
 	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "vim-autoformat"]
+	path = vim-autoformat
+	url = git@github.com:Chiel92/vim-autoformat.git
