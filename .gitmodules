@@ -1,87 +1,87 @@
 [submodule "VimCompletesMe"]
 	path = VimCompletesMe
-	url = git://github.com/ajh17/VimCompletesMe.git
+	url = https://github.com/ajh17/VimCompletesMe.git
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
-	url = git://github.com/kien/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
 [submodule "auto-pairs"]
 	path = auto-pairs
-	url = git://github.com/jiangmiao/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
 [submodule "emmet-vim"]
 	path = emmet-vim
-	url = git@github.com:mattn/emmet-vim.git
+	url = https://github.com/mattn/emmet-vim.git
 [submodule "nerdtree"]
 	path = nerdtree
-	url = git@github.com:preservim/nerdtree.git
+	url = https://github.com/preservim/nerdtree.git
 [submodule "nginx.vim"]
 	path = nginx.vim
-	url = git@github.com:chr4/nginx.vim.git
+	url = https://github.com/chr4/nginx.vim.git
 [submodule "plantuml-syntax"]
 	path = plantuml-syntax
-	url = git@github.com:aklt/plantuml-syntax.git
+	url = https://github.com/aklt/plantuml-syntax.git
 [submodule "rust.vim"]
 	path = rust.vim
-	url = git@github.com:rust-lang/rust.vim.git
+	url = https://github.com/rust-lang/rust.vim.git
 [submodule "ale"]
 	path = ale
-	url = git@github.com:dense-analysis/ale.git
+	url = https://github.com/dense-analysis/ale.git
 [submodule "typescript-vim"]
 	path = typescript-vim
-	url = git@github.com:leafgarland/typescript-vim.git
+	url = https://github.com/leafgarland/typescript-vim.git
 [submodule "vim-coffee-script"]
 	path = vim-coffee-script
-	url = git@github.com:kchmck/vim-coffee-script.git
+	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "vim-commentary"]
 	path = vim-commentary
-	url = git@github.com:tpope/vim-commentary.git
+	url = https://github.com/tpope/vim-commentary.git
 [submodule "vim-fugitive"]
 	path = vim-fugitive
-	url = git@github.com:tpope/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim-gitgutter"]
 	path = vim-gitgutter
-	url = git@github.com:airblade/vim-gitgutter.git
+	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "vim-go"]
 	path = vim-go
-	url = git@github.com:fatih/vim-go.git
+	url = https://github.com/fatih/vim-go.git
 [submodule "vim-less"]
 	path = vim-less
-	url = git@github.com:groenewege/vim-less.git
+	url = https://github.com/groenewege/vim-less.git
 [submodule "vim-markdown"]
 	path = vim-markdown
-	url = git@github.com:plasticboy/vim-markdown.git
+	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "vim-multiple-cursors"]
 	path = vim-multiple-cursors
-	url = git@github.com:terryma/vim-multiple-cursors.git
+	url = https://github.com/terryma/vim-multiple-cursors.git
 [submodule "vim-pug"]
 	path = vim-pug
-	url = git@github.com:digitaltoad/vim-pug.git
+	url = https://github.com/digitaltoad/vim-pug.git
 [submodule "vim-repeat"]
 	path = vim-repeat
-	url = git@github.com:tpope/vim-repeat.git
+	url = https://github.com/tpope/vim-repeat.git
 [submodule "vim-surround"]
 	path = vim-surround
-	url = git@github.com:tpope/vim-surround.git
+	url = https://github.com/tpope/vim-surround.git
 [submodule "vim-vue"]
 	path = vim-vue
-	url = git@github.com:posva/vim-vue.git
+	url = https://github.com/posva/vim-vue.git
 [submodule "vim-yankstack"]
 	path = vim-yankstack
-	url = git@github.com:maxbrunsfeld/vim-yankstack.git
+	url = https://github.com/maxbrunsfeld/vim-yankstack.git
 [submodule "vim-rails"]
 	path = vim-rails
-	url = git@github.com:tpope/vim-rails.git
+	url = https://github.com/tpope/vim-rails.git
 [submodule "vim-mustache-handlebars"]
 	path = vim-mustache-handlebars
-	url = git@github.com:mustache/vim-mustache-handlebars.git
+	url = https://github.com/mustache/vim-mustache-handlebars.git
 [submodule "Vim-Jinja2-Syntax"]
 	path = Vim-Jinja2-Syntax
-	url = git@github.com:Glench/Vim-Jinja2-Syntax.git
+	url = https://github.com/Glench/Vim-Jinja2-Syntax.git
 [submodule "vim-slim"]
 	path = vim-slim
-	url = git@github.com:slim-template/vim-slim.git
+	url = https://github.com/slim-template/vim-slim.git
 [submodule "vim-colors-solarized"]
 	path = vim-colors-solarized
-	url = git@github.com:altercation/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "vim-autoformat"]
 	path = vim-autoformat
-	url = git@github.com:Chiel92/vim-autoformat.git
+	url = https://github.com/Chiel92/vim-autoformat.git
