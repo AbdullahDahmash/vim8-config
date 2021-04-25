@@ -83,3 +83,6 @@ set clipboard+=unnamedplus
 
 " *.hbs for mustache
 au BufReadPost *.hbs set syntax=mustache
+
+" Remove delay from exiting insert mode
+set noesckeys
