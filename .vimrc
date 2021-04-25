@@ -78,9 +78,6 @@ autocmd BufNewFile,BufRead *.slim setlocal filetype=slim
 autocmd BufNewFile,BufRead *.slime setlocal filetype=slim
 autocmd BufNewFile,BufRead *.slimeex setlocal filetype=slim
 
-" Plus sign to use clipboard
-set clipboard+=unnamedplus
-
 " *.hbs for mustache
 au BufReadPost *.hbs set syntax=mustache
 
