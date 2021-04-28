@@ -83,3 +83,7 @@ au BufReadPost *.hbs set syntax=mustache
 
 " Remove delay from exiting insert mode
 set noesckeys
+
+" ctrlp
+let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
+
