@@ -30,6 +30,14 @@ set ts=4
 :autocmd Filetype ruby set sw=2
 :autocmd Filetype ruby set ts=2
 
+:autocmd Filetype eruby set softtabstop=2
+:autocmd Filetype eruby set sw=2
+:autocmd Filetype eruby set ts=2
+
+:autocmd Filetype html set softtabstop=2
+:autocmd Filetype html set sw=2
+:autocmd Filetype html set ts=2
+
 :autocmd Filetype yaml set softtabstop=2
 :autocmd Filetype yaml set sw=2
 :autocmd Filetype yaml set ts=2
