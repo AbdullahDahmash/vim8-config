@@ -99,3 +99,5 @@ set nocompatible
 if &term == "screen"
   set t_Co=256
 endif
+set timeoutlen=1000
+set ttimeoutlen=0
