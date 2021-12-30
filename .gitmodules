@@ -85,3 +85,6 @@
 [submodule "vim-autoformat"]
 	path = vim-autoformat
 	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule "FastFold"]
+	path = FastFold
+	url = https://github.com/Konfekt/FastFold.git
