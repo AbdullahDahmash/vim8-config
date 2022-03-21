@@ -101,3 +101,4 @@ if &term == "screen"
 endif
 set timeoutlen=1000
 set ttimeoutlen=0
+let vim_markdown_folding_disabled = 1
