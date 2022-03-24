@@ -75,6 +75,14 @@ set updatetime=250
 au BufRead,BufNewFile *.es6 set filetype=javascript    " to overrule an existing filetype
 au BufRead,BufNewFile *.es6 setfiletype javascript     
 
+" Add Vagrantfile to ruby syntax
+au BufRead,BufNewFile Vagrantfile set filetype=ruby    " to overrule an existing filetype
+au BufRead,BufNewFile Vagrantfile setfiletype ruby     
+
+" Add Berksfile to ruby syntax
+au BufRead,BufNewFile Berksfile set filetype=ruby    " to overrule an existing filetype
+au BufRead,BufNewFile Berksfile setfiletype ruby     
+
 " Auto-formant
 noremap <F5> :Autoformat<CR>
 
