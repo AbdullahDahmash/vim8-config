@@ -72,16 +72,26 @@ let g:gitgutter_realtime = 1
 set updatetime=250
 
 " Add es6 to javascript syntax
-au BufRead,BufNewFile *.es6 set filetype=javascript    " to overrule an existing filetype
-au BufRead,BufNewFile *.es6 setfiletype javascript     
+au BufRead,BufNewFile *.es6 set filetype=javascript
+au BufRead,BufNewFile *.es6 setfiletype javascript
 
 " Add Vagrantfile to ruby syntax
-au BufRead,BufNewFile Vagrantfile set filetype=ruby    " to overrule an existing filetype
-au BufRead,BufNewFile Vagrantfile setfiletype ruby     
+au BufRead,BufNewFile Vagrantfile set filetype=ruby
+au BufRead,BufNewFile Vagrantfile setfiletype ruby
 
 " Add Berksfile to ruby syntax
-au BufRead,BufNewFile Berksfile set filetype=ruby    " to overrule an existing filetype
-au BufRead,BufNewFile Berksfile setfiletype ruby     
+au BufRead,BufNewFile Berksfile set filetype=ruby
+au BufRead,BufNewFile Berksfile setfiletype ruby
+
+" Add yaml secrets to yaml syntax
+au BufRead,BufNewFile *.yml.secret set filetype=yaml
+au BufRead,BufNewFile *.yml.secret setfiletype yaml
+au BufRead,BufNewFile *.yaml.secret set filetype=yaml
+au BufRead,BufNewFile *.yaml.secret setfiletype yaml
+
+" Add ini secrets to ini syntax
+au BufRead,BufNewFile *.ini.secret set filetype=ini
+au BufRead,BufNewFile *.ini.secret setfiletype ini
 
 " Auto-formant
 noremap <F5> :Autoformat<CR>
