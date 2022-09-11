@@ -91,3 +91,6 @@
 [submodule "FastFold"]
 	path = FastFold
 	url = https://github.com/Konfekt/FastFold
+[submodule "omnisharp-vim"]
+	path = omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim
