@@ -120,3 +120,5 @@ endif
 set timeoutlen=1000
 set ttimeoutlen=0
 let vim_markdown_folding_disabled = 1
+
+let g:OmniSharp_server_stdio = 0
